@@ -1,3 +1,3 @@
-#Noom
+#socketIO
 
-Zoom Clone using WecRTC and WebSocket
+Chat Room using WecRTC and WebSocket
